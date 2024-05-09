@@ -1,3 +1,3 @@
 # Selenite
 
-The simple and portable opensource assistant.
+The opensource, simple and portable assistant.
